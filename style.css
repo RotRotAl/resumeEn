@@ -30,7 +30,7 @@ h1{
     text-align: center;
     color:#001C30;
 }
-p,ul,h2,h3,h4,h5{
+p,ul,h2,h3,h4,h5,button{
     font-family: 'Inconsolata', monospace;
     text-align: center;
     color:#001C30;
@@ -46,6 +46,8 @@ ul{
     
 }
 #contact-me{
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
     color: #64CCC5;
     background-color: #176B87;
 }
